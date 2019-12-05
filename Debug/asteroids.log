@@ -1,0 +1,53 @@
+﻿  asteroids.cpp
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(259): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(259): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(258): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(258): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(280): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(298): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(299): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(61): note: see reference to function template instantiation 'std::pair<float,float>::pair<float,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=double
+          ]
+  c:\users\nagie\source\repos\asteroids\asteroids\asteroids.cpp(55): note: see reference to function template instantiation 'std::pair<float,float>::pair<float,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=double
+          ]
+  asteroids.vcxproj -> C:\Users\nagie\source\repos\asteroids\Debug\asteroids.exe
