@@ -1,5 +1,4 @@
 # Asteroids in C++
--
 Credits: javidx9
 
 Channel: https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
